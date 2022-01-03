@@ -1,32 +1,46 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
 *.obj
-
-# Precompiled Headers
-*.gch
+ipch/
+*.user
+.git/*
+.hg/*
+*.ncb
+*.idb
 *.pch
+*.suo
+*.aps
+*.dep
+*.htm
+*.ilk
+*.pdb
+*.manifest
+*.user
+*.tmp
+*.aps
+*.orig
+*.bak
+*.gitignore
+*.sdf
+*.tlog
+*.log
+*.rej
+*.lastbuildstate
+*.log
+*.tlog
+*.unsuccessfulbuild
+*.cache
+*.obj
+*.res
+*.sbr
+*.exp
+*.bsc
+*.map
+*.lst
+*.opt
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+AOIServer/AOIServer/x64/Release/
+Inspector/Inspector/x64/
+DitMTogether/C2CWalkerM/x64/
+DitMTogether/CircleWalkerM/x64/
+DitMTogether/GeometryM/x64/
+DitMTogether/ImageHandleM/x64/
+*.exp
